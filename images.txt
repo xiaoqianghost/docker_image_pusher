@@ -1,2 +1,1 @@
-apache/doris:1.2.1-fe-x86_64
-apache/doris:1.2.1-be-x86_64
+mongo:5.0.10
